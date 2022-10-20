@@ -1,0 +1,21 @@
+.Header{
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    background: linear-gradient(to right, #672280, #A626D3);
+    color: white;
+}
+
+.Header--logo--wrapper{
+    display: flex;
+    padding-left: 15px;
+}
+
+.Header--logo--text{
+    margin-left: 10px;
+}
+
+.Header--logo--image{
+    max-height: 45px;
+    padding-top: 15px;
+}
